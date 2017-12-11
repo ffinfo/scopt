@@ -2,9 +2,6 @@ package scopt
 
 import scala.collection.mutable.{ListBuffer, ListMap}
 
-class OptionParser {
-
-}
 /** <code>scopt.immutable.OptionParser</code> is instantiated within your object,
   * set up by an (ordered) sequence of invocations of
   * the various builder methods such as
